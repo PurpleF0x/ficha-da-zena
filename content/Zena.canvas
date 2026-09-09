@@ -1,0 +1,543 @@
+{
+  "nodes": [
+    {
+      "id": "4236a0beda20e8e8",
+      "type": "file",
+      "file": "Zena (completo)/Objetivos.md",
+      "x": -2060,
+      "y": -535,
+      "width": 460,
+      "height": 460
+    },
+    {
+      "id": "e92f8fe007c3feaa",
+      "type": "file",
+      "file": "Zena (completo)/Diário.md",
+      "x": -1540,
+      "y": -535,
+      "width": 245,
+      "height": 460
+    },
+    {
+      "id": "73fa152cea67eadd",
+      "type": "text",
+      "text": "[[1     Wynna]]",
+      "x": -750,
+      "y": -1096,
+      "width": 230,
+      "height": 50
+    },
+    {
+      "id": "97172c2b61e095af",
+      "type": "text",
+      "text": "[[2     Magia Arcana&Divina]]",
+      "x": -750,
+      "y": -1046,
+      "width": 230,
+      "height": 50
+    },
+    {
+      "id": "a199cce9250e2954",
+      "type": "text",
+      "text": "[[3     Khalmyr]]",
+      "x": -750,
+      "y": -996,
+      "width": 230,
+      "height": 50
+    },
+    {
+      "id": "9b30cb10fdf03a46",
+      "type": "text",
+      "text": "[[1     Mãe]]",
+      "x": -750,
+      "y": -916,
+      "width": 230,
+      "height": 50
+    },
+    {
+      "id": "946fb3b07a008def",
+      "type": "text",
+      "text": "[[2     Mestre]]",
+      "x": -750,
+      "y": -866,
+      "width": 230,
+      "height": 50
+    },
+    {
+      "id": "de32570f877dc5a7",
+      "type": "text",
+      "text": "[[4     Futuro Grupo]]",
+      "x": -750,
+      "y": -766,
+      "width": 230,
+      "height": 50
+    },
+    {
+      "id": "48844993d5a2f879",
+      "type": "text",
+      "text": "[[3     Cavaleiros de Khalmyr]]",
+      "x": -750,
+      "y": -816,
+      "width": 230,
+      "height": 50
+    },
+    {
+      "id": "45915bec8582e6e2",
+      "type": "text",
+      "text": "[[4      Leilão]]",
+      "x": -740,
+      "y": -1689,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "5f3ad048dcc0c7b3",
+      "type": "text",
+      "text": "[[5      Cavaleiros de Khalmyr]]",
+      "x": -740,
+      "y": -1639,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "90ffde4a5526acbc",
+      "type": "text",
+      "text": "[[6      Academia Arcana]]",
+      "x": -740,
+      "y": -1589,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "a35690769181df40",
+      "type": "text",
+      "text": "[[7      Caminho Atual]]",
+      "x": -740,
+      "y": -1539,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "98cf073705441f44",
+      "type": "text",
+      "text": "[[0     Personalidade]]",
+      "x": -680,
+      "y": -1435,
+      "width": 160,
+      "height": 50
+    },
+    {
+      "id": "997fdf142842f2f7",
+      "type": "text",
+      "text": "[[1     Traços]]",
+      "x": -680,
+      "y": -1385,
+      "width": 160,
+      "height": 50
+    },
+    {
+      "id": "f7e2a763b6550692",
+      "type": "text",
+      "text": "[[2     Maneirismos]]",
+      "x": -680,
+      "y": -1333,
+      "width": 160,
+      "height": 50
+    },
+    {
+      "id": "bf1c5918933799c8",
+      "type": "text",
+      "text": "[[3     Valores]]",
+      "x": -680,
+      "y": -1283,
+      "width": 160,
+      "height": 50
+    },
+    {
+      "id": "c53d2e075e9305a7",
+      "type": "text",
+      "text": "[[4     Medos]]",
+      "x": -680,
+      "y": -1233,
+      "width": 160,
+      "height": 50
+    },
+    {
+      "id": "2198a75b7e40b265",
+      "type": "text",
+      "text": "[[5     Contradições]]",
+      "x": -680,
+      "y": -1183,
+      "width": 160,
+      "height": 50
+    },
+    {
+      "id": "9a2f38be0f4e8c4d",
+      "type": "text",
+      "text": "[[0      Lore-(Incompleta)]]",
+      "x": -740,
+      "y": -1889,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "c69e542e18c6d8a1",
+      "type": "text",
+      "text": "[[1      Origem]]",
+      "x": -740,
+      "y": -1839,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "48156797f04bfceb",
+      "type": "text",
+      "text": "[[2      Infância em Wnylla]]",
+      "x": -740,
+      "y": -1789,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "db567ab479835685",
+      "type": "text",
+      "text": "[[3      O Mestre]]",
+      "x": -740,
+      "y": -1739,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "96242801a688c12a",
+      "type": "text",
+      "text": "#  **Zena**",
+      "x": -1660,
+      "y": -851,
+      "width": 120,
+      "height": 70
+    },
+    {
+      "id": "1ae1d8606f97790d",
+      "type": "text",
+      "text": "## Personalidade",
+      "x": -1300,
+      "y": -1435,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "7fe227cad0ce810a",
+      "type": "text",
+      "text": "## Lore",
+      "x": -1238,
+      "y": -1889,
+      "width": 96,
+      "height": 50
+    },
+    {
+      "id": "141eaa8cc4e2513c",
+      "type": "text",
+      "text": "## Relações",
+      "x": -1260,
+      "y": -941,
+      "width": 140,
+      "height": 50
+    },
+    {
+      "id": "c3353b4e665f9f32",
+      "type": "text",
+      "text": "## Fé & Filosofias",
+      "x": -1295,
+      "y": -1096,
+      "width": 210,
+      "height": 50
+    },
+    {
+      "id": "5838ccf84c70ec53",
+      "type": "text",
+      "text": "## Aparência\n\n## - [[Aparência]]",
+      "x": -1000,
+      "y": -595,
+      "width": 200,
+      "height": 106
+    },
+    {
+      "id": "5296461b99b8ec98",
+      "type": "text",
+      "text": "## Gostos e Desgostos\n\n ## - [[Gostos & Desgostos]]",
+      "x": -780,
+      "y": -595,
+      "width": 290,
+      "height": 106
+    },
+    {
+      "id": "c976285d4b03a3a7",
+      "type": "text",
+      "text": "Zena\n│\n├── Lore\n│   ├── Lore (completa)\n│   ├── Origem\n│   ├── Infância em Wynlla\n│   ├── O Mestre\n│   ├── Leilão\n│   ├── Cavaleiros de Khalmyr\n│   ├── Academia Arcana\n│   └── Caminho atual\n│\n├── Personalidade\n│   ├── Personalidade\n│   ├── Traços\n│   ├── Maneirismos\n│   ├── Valores\n│   ├── Medos\n│   └── Contradições\n│\n├── Aparência\n│\n├── Gostos e Desgostos\n│\n├── Fé e Filosofia\n│   ├── Wynna\n│   ├── Magia Arcana&Divina\n│   └── Khalmyr\n│\n├── Relações\n│   ├── Mãe\n│   ├── Mestre\n│   ├── Cavaleiros de Khalmyr\n│   └── Futuro grupo\n│\n├── Objetivos\n│\n├── Frases\n│\n└── Diário / Cartas\n",
+      "x": -40,
+      "y": -1764,
+      "width": 290,
+      "height": 991
+    },
+    {
+      "id": "2530e820767f1e57",
+      "x": -2000,
+      "y": -1714,
+      "width": 460,
+      "height": 681,
+      "type": "link",
+      "url": "https://i.imgur.com/YMnAYHQ.jpeg"
+    },
+    {
+      "id": "63e8a55605755fdf",
+      "type": "text",
+      "text": "# [Foto da Zena](https://i.imgur.com/YMnAYHQ.jpeg)",
+      "x": -1885,
+      "y": -1033,
+      "width": 230,
+      "height": 50
+    }
+  ],
+  "edges": [
+    {
+      "id": "e9af2a4c0ce38f54",
+      "fromNode": "7fe227cad0ce810a",
+      "fromSide": "right",
+      "toNode": "9a2f38be0f4e8c4d",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "f69228a202247ace",
+      "fromNode": "7fe227cad0ce810a",
+      "fromSide": "right",
+      "toNode": "c69e542e18c6d8a1",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "96620638b5b5ae8a",
+      "fromNode": "7fe227cad0ce810a",
+      "fromSide": "right",
+      "toNode": "db567ab479835685",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "49b237ef8fc00f68",
+      "fromNode": "7fe227cad0ce810a",
+      "fromSide": "right",
+      "toNode": "45915bec8582e6e2",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "6f3abd6a1bab652c",
+      "fromNode": "7fe227cad0ce810a",
+      "fromSide": "right",
+      "toNode": "5f3ad048dcc0c7b3",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "4abf2a942579f88f",
+      "fromNode": "7fe227cad0ce810a",
+      "fromSide": "right",
+      "toNode": "90ffde4a5526acbc",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "695c4b309b5a5ee0",
+      "fromNode": "7fe227cad0ce810a",
+      "fromSide": "right",
+      "toNode": "a35690769181df40",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "4686f4f445edd2bd",
+      "fromNode": "7fe227cad0ce810a",
+      "fromSide": "right",
+      "toNode": "48156797f04bfceb",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "b8dd732831243ed1",
+      "fromNode": "96242801a688c12a",
+      "fromSide": "right",
+      "toNode": "7fe227cad0ce810a",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "2d463dc3e8f091c0",
+      "fromNode": "96242801a688c12a",
+      "fromSide": "right",
+      "toNode": "1ae1d8606f97790d",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "f804bb17f601e845",
+      "fromNode": "96242801a688c12a",
+      "fromSide": "right",
+      "toNode": "5838ccf84c70ec53",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "628174e64b0873d5",
+      "fromNode": "96242801a688c12a",
+      "fromSide": "right",
+      "toNode": "5296461b99b8ec98",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "9a05e2f2739e8e25",
+      "fromNode": "96242801a688c12a",
+      "fromSide": "right",
+      "toNode": "c3353b4e665f9f32",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "853bb241c7f2b401",
+      "fromNode": "96242801a688c12a",
+      "fromSide": "right",
+      "toNode": "141eaa8cc4e2513c",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "e52af3e2f014488b",
+      "fromNode": "1ae1d8606f97790d",
+      "fromSide": "right",
+      "toNode": "98cf073705441f44",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "bd6112aa2d8b0a6c",
+      "fromNode": "1ae1d8606f97790d",
+      "fromSide": "right",
+      "toNode": "997fdf142842f2f7",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "00c06649d0e988c6",
+      "fromNode": "1ae1d8606f97790d",
+      "fromSide": "right",
+      "toNode": "f7e2a763b6550692",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "87deb081cd669b0d",
+      "fromNode": "1ae1d8606f97790d",
+      "fromSide": "right",
+      "toNode": "bf1c5918933799c8",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "9232fc4b19f3fb51",
+      "fromNode": "1ae1d8606f97790d",
+      "fromSide": "right",
+      "toNode": "c53d2e075e9305a7",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "445590542c217823",
+      "fromNode": "1ae1d8606f97790d",
+      "fromSide": "right",
+      "toNode": "2198a75b7e40b265",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "c47017f6a6caf813",
+      "fromNode": "c3353b4e665f9f32",
+      "fromSide": "right",
+      "toNode": "73fa152cea67eadd",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "21eaa5d567ee0eb6",
+      "fromNode": "c3353b4e665f9f32",
+      "fromSide": "right",
+      "toNode": "97172c2b61e095af",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "73b7b1655c5e62e1",
+      "fromNode": "c3353b4e665f9f32",
+      "fromSide": "right",
+      "toNode": "a199cce9250e2954",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "2ae40e53bc3f819b",
+      "fromNode": "141eaa8cc4e2513c",
+      "fromSide": "right",
+      "toNode": "9b30cb10fdf03a46",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "fe18dd5faae6d859",
+      "fromNode": "141eaa8cc4e2513c",
+      "fromSide": "right",
+      "toNode": "946fb3b07a008def",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "57984360ba239334",
+      "fromNode": "141eaa8cc4e2513c",
+      "fromSide": "right",
+      "toNode": "48844993d5a2f879",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "76db0e90ca040843",
+      "fromNode": "141eaa8cc4e2513c",
+      "fromSide": "right",
+      "toNode": "de32570f877dc5a7",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "2b73d7ee70b767ca",
+      "fromNode": "96242801a688c12a",
+      "fromSide": "bottom",
+      "toNode": "e92f8fe007c3feaa",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "95d7c71b6bbec499",
+      "fromNode": "96242801a688c12a",
+      "fromSide": "left",
+      "toNode": "4236a0beda20e8e8",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "a4c3b0b3c5656d59",
+      "fromNode": "96242801a688c12a",
+      "fromSide": "top",
+      "toNode": "63e8a55605755fdf",
+      "toSide": "bottom",
+      "color": "1"
+    }
+  ]
+}
